@@ -1,0 +1,13 @@
+br\ce\wcaquino\entidades\Usuario.class
+br\ce\wcaquino\exceptions\NaoPodeDividirPorZeroException.class
+br\ce\wcaquino\entidades\Locacao.class
+br\ce\wcaquino\utils\DataUtils.class
+br\ce\wcaquino\servicos\SPCService.class
+br\ce\wcaquino\exceptions\FilmeSemEstoqueException.class
+br\ce\wcaquino\exceptions\LocadoraException.class
+br\ce\wcaquino\daos\LocacaoDAO.class
+br\ce\wcaquino\daos\LocacaoDAOFake.class
+br\ce\wcaquino\servicos\EmailService.class
+br\ce\wcaquino\servicos\LocacaoService.class
+br\ce\wcaquino\entidades\Filme.class
+br\ce\wcaquino\servicos\Calculadora.class
